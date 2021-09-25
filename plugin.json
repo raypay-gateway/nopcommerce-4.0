@@ -2,7 +2,7 @@
   "Group": "Payment methods",
   "FriendlyName": "Ray Pay",
   "SystemName": "Payments.RayPay",
-  "Version": "1.0",
+  "Version": "1.1",
   "SupportedVersions": [ "4.00" ],
   "Author": "saminray team",
   "DisplayOrder": 10,
